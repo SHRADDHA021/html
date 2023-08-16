@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+        <title>Document</title>
+</head>
+<body background="C:\Users\OMSAI\Downloads\evie-s-Sw7f58YJbc0-unsplash.jpg"> 
+
+<table border="0" width="100%" height="700px">
+
+<!----Row2---->
+<tr>
+<th colspan="15">
+<font color="candy apple" face="demi bold" size="7">
+<h1>... Gurudatta Electricals ... </h1> 
+<font color="pumkin" face="demi bold" size="5">
+<h2> ***Wel Come to Electric world*** </h2>
+</th>
+</tr>
+
+<!----Row3---->
+<marquee bgcolor="white" size="8">
+... 20% off on each item till 18 August...
+</maeruee>
+<font color="maya" face="demi bold" size="7">
+<th colspan="8">
+<h1>Items:</h1>
+<th colspan="3">
+<img src="C:\Users\OMSAI\Downloads\fan.jpg">
+<th colspan="3">
+<img src="C:\Users\OMSAI\Downloads\istockphoto-901029028-1024x1024.jpg">
+<th colspan="3">
+<img src="C:\Users\OMSAI\Downloads\istockphoto-171311412-1024x1024.jpg">
+</th>
+</tr>
+</font>
+<tr>
+<!-----Row4---->
+<!----Row5---->
+<th colspan="15">
+<font  size="6" color="blue" > About us:</font><br>
+<font  size="6" color="hibiscus" > All branded companies such as -Bajaj,Anchor,RR items are available.</font>
+<br><font  size="6" color="blue" > Contact us:</font>
+<font  size="6" color="black" > XXXXXX</font>
+<br>
+<font  size="6" color="brown" > ...Thanks for visiting... </font>
+
+</th>
+
+
+</table>
+
+
+    
+</body>
+</html>
